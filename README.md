@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Math student @ University of Waterloo. 
+
+### My Porgramming Languages: 
+Python, JavaScript/Typescript, C++, SQL
+
+### ML and Data Science: 
+Pandas, NumPy, Scikit-Learn, Matplotlib
+
+### Front-end:
+ReactJS, RemixJS, NextJS, NodeJS, HTML, CSS
+
+### Technologies:
+Git/Github, Postman, Vercel, Azure, Heroku, MongoDB, PostgreSQL
+
+### Languages: 
+English, Mandarin, Cantonese
