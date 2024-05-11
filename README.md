@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+andrewtaowen@gmail.com.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,27 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Math student @ University of Waterloo. 
+My name is Andrew, and I am a Math student at the University of Waterloo!
 
+- 🔭 I’m currently working on researching and implementing vector similarity algorithms at MindBridge Analytics!
+- 🌱 I’m currently learning distributed systems.
+- 👯 I’m looking to collaborate on stock price prediction related projects! Feel free to reach out to me at [andrewtaowen@gmail.com](andrewtaowen@gmail.com).
+   
 ### 👨‍💻 My Work Experiences
-SWE Intern @ Grant Thornton LLP (Oct-Dec 2023) 
+- SWE Intern @ Grant Thornton LLP
 
-SWE Intern @ Enquire AI (Sept 2023-Mar 2024)
+- SWE Intern @ Enquire AI
 
-SWE Intern @ MindBridge AI (Current)
-
-### My Porgramming Languages: 
-Python, Java, JavaScript/Typescript, C++, C, SQL
-
-### ML and Data Science: 
-Pandas, NumPy, Scikit-Learn, Matplotlib, PyTorch, Tensorflow
-
-### Front-end:
-ReactJS, RemixJS, NextJS, NodeJS, HTML, CSS/SASS
-
-### Technologies:
-Git/Github, Postman, Vercel, Azure, Heroku, MongoDB, PostgreSQL
-
-### Languages: 
-English, Mandarin, Cantonese
+- SWE Intern @ MindBridge AI (Current)
 
