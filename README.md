@@ -20,9 +20,13 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
 - 👯 I’m looking to collaborate on stock price prediction related projects! Feel free to reach out to me at [andrewtaowen@gmail.com](andrewtaowen@gmail.com).
    
 ### 👨‍💻 My Work Experiences
-- SWE Intern @ Grant Thornton LLP
+SWE Intern @ Microsoft - Copilot feedback (current)
 
-- SWE Intern @ Enquire AI
+SWE Intern @ MindBridge AI - Analytics
 
-- SWE Intern @ MindBridge AI (Current)
+SWE Intern @ Enquire AI - Slack app
+  
+SWE Intern @ Grant Thornton LLP - Client portal
+
+
 
