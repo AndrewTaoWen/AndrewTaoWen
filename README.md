@@ -15,18 +15,17 @@ andrewtaowen@gmail.com.
 
 My name is Andrew, and I am a Math student at the University of Waterloo!
 
-- 🔭 I’m currently working on researching and implementing vector similarity algorithms at MindBridge Analytics!
 - 🌱 I’m currently learning distributed systems.
-- 👯 I’m looking to collaborate on stock price prediction related projects! Feel free to reach out to me at [andrewtaowen@gmail.com](andrewtaowen@gmail.com).
+- 📱 I'm currently learning iOS development with Swift.
    
 ### 👨‍💻 My Work Experiences
 SWE Intern @ Microsoft - Copilot feedback 
 
-SWE Intern @ MindBridge AI - Analytics
+Junior Full-Stack Developer Co-op @ MindBridge AI - Analytics
 
 SWE Intern @ Enquire AI - Slack app
   
-SWE Intern @ Grant Thornton LLP - Client portal
+Software Developer Co-op @ Grant Thornton LLP - Client portal
 
 
 
