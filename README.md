@@ -19,6 +19,8 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
 - 📱 I'm currently learning iOS development with Swift.
    
 ### 👨‍💻 My Work Experiences
+Software Engineer Associate @ Grant Thornton - Client portal again :)
+
 SWE Intern @ Microsoft - Copilot feedback 
 
 Junior Full-Stack Developer Co-op @ MindBridge AI - Analytics
