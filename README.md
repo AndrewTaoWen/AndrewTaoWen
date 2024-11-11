@@ -17,6 +17,8 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
 
 - 🌱 I’m currently learning distributed systems.
 - 📱 I'm currently learning iOS development with Swift.
+- 🧑🏻‍⚕️ Using NLP to enable easier health resource search for Queen's University.
+
    
 ### 👨‍💻 My Work Experiences
 Software Engineer Associate @ Grant Thornton - Client portal again :)
