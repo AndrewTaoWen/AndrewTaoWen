@@ -18,6 +18,8 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
 - 🌱 I’m currently learning distributed systems.
 - 📱 I'm currently learning iOS development with Swift.
 - 🧑🏻‍⚕️ Using NLP to enable easier health resource search for Queen's University.
+- 🧮 Currently learning Rust for faer lin alg
+
 
    
 ### 👨‍💻 My Work Experiences
