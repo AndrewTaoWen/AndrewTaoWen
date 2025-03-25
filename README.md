@@ -23,7 +23,7 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
 
    
 ### 👨‍💻 My Work Experiences
-Incoming Software Engineer Intern @ Tesla 
+Software Engineer Intern @ Tesla - Performance Eng.
 
 Software Engineer Associate @ Grant Thornton - Client portal again :)
 
