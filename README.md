@@ -17,15 +17,14 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
 
 - 🌱 I’m currently learning distributed systems.
 - 📱 I'm currently learning iOS development with Swift.
-- 🧑🏻‍⚕️ Using NLP to enable easier health resource search for Queen's University.
-- 🧮 Currently learning Rust for faer lin alg
-
 
    
 ### 👨‍💻 My Work Experiences
-Software Engineer Intern @ Tesla - Performance Eng.
+Founding Engineer @ Limitless - Founding Team  ++ Democratizing Venture Capital
 
-Software Engineer Associate @ Grant Thornton - Client portal again :)
+2x Software Engineer Intern @ Tesla - Performance Eng.
+
+Software Engineer Associate @ Grant Thornton - Client portal
 
 SWE Intern @ Microsoft - Copilot feedback 
 
