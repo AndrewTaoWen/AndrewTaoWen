@@ -13,10 +13,6 @@ andrewtaowen@gmail.com.
 - ⚡ Fun fact: ...
 -->
 
-![Tesla](https://img.shields.io/badge/Tesla-%23CC0000?style=for-the-badge&logo=tesla&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Grant Thornton](https://img.shields.io/badge/Grant%20Thornton-4B006E?style=for-the-badge&logo=&logoColor=white)
-
 My name is Andrew, and I am a Math student at the University of Waterloo!
 
 - 🌱 I’m currently learning distributed systems.
