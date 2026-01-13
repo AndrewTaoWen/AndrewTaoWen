@@ -21,11 +21,8 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
    
 ### 👨‍💻 My Work Experiences
 
-Incoming @ Snowflake - Data Lake
 
-Incoming @ Sierra - AI Agents
-
-Founding Engineer @ Limitless
+Sierra - AI Agents
 
 2x Software Engineer Intern @ Tesla - Performance Eng.
 
