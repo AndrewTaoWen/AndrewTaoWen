@@ -14,27 +14,20 @@ andrewtaowen@gmail.com.
 -->
 
 My name is Andrew, and I am a Math student at the University of Waterloo!
-
-- 🌱 I’m currently learning distributed systems.
-- 📱 I'm currently learning iOS development with Swift.
-
    
 ### 👨‍💻 My Work Experiences
 
 
 Sierra - AI Agents
 
-2x Software Engineer Intern @ Tesla - Performance Eng.
+Tesla - Performance Eng.
 
-Software Engineer Associate @ Grant Thornton - Client portal
+Microsoft - Copilot feedback
 
-SWE Intern @ Microsoft - Copilot feedback
+MindBridge AI - Analytics
 
-Junior Full-Stack Developer Co-op @ MindBridge AI - Analytics
+Enquire AI - Slack app
 
-SWE Intern @ Enquire AI - Slack app
-  
-Software Developer Co-op @ Grant Thornton LLP - Client portal
-
+Grant Thornton LLP - Client portal
 
 
