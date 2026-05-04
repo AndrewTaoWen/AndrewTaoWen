@@ -17,6 +17,7 @@ My name is Andrew, and I am a Math student at the University of Waterloo!
    
 ### 👨‍💻 My Work Experiences
 
+Snowflake - Data Lake
 
 Sierra - AI Agents
 
