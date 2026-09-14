@@ -25,10 +25,6 @@ Tesla - Performance Eng.
 
 Microsoft - Copilot feedback
 
-MindBridge AI - Analytics
-
-Enquire AI - Slack app
-
 Grant Thornton LLP - Client portal
 
 
