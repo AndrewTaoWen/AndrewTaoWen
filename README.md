@@ -27,4 +27,6 @@ Microsoft - Copilot feedback
 
 Grant Thornton LLP - Client portal
 
+🤔 Lately, I have been working on building a set of tools to improve AI native developer experience.
+
 
